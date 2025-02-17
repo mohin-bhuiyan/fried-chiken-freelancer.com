@@ -106,6 +106,7 @@ nav .links a {
 
 nav .links a:hover {
     color: #f59e0b;
+    background-color:black;
 }
 
 .active{
